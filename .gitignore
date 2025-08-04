@@ -1,0 +1,37 @@
+aab-releases
+node_modules
+credentials
+screenshots
+
+# Backend Ignore Files
+.env
+uploads
+
+# Frontend Ignore Files
+hostname.js
+google-services.json
+android
+.expo/
+dist/
+
+# React Native and Expo
+web-build/
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Photoshop RAW files
+*.psd
+
+# typescript
+*.tsbuildinfo
+
+# debug
+npm-debug.*
+
+# Metro
+.metro-health-check*
